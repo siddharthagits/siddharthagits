@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @siddharthagits
+- 👀 I’m a Frontend developer 
+- 🌱 I’m currently learning new advanced languages
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me - email me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: friendly nature 
